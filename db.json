@@ -4,7 +4,7 @@
             "id": 1,
             "category": "PIZZA",
             "name": "Ветчина и грибы",
-            "img": "https://raw.githubusercontent.com/AbdullohBahromjonov/PizzaAPI/refs/heads/main/Буффало%201.png",
+            "img": "https://img.freepik.com/premium-photo/pepperoni-pizza-cheese-pizza-food-pizza-pizza-pepperoni-mozzarella-mozzarella-cheese-cheese_812450-5.jpg?w=740",
             "price": 345,
             "description": "Ветчина,шампиньоны, увеличинная порция моцареллы, томатный соус"
         },
@@ -12,7 +12,7 @@
             "id": 2,
             "category": "PIZZA",
             "name": "Баварские колбаски",
-            "img": "https://raw.githubusercontent.com/AbdullohBahromjonov/PizzaAPI/refs/heads/main/Слой%201%202.png",
+            "img": "https://img.freepik.com/premium-photo/isolated-pepperoni-pizza-with-salami_219193-8159.jpg?w=740",
             "price": 345,
             "description": "Баварски колбаски,ветчина, пикантная пепперони, острая чоризо, моцарелла, томатный соус"
         },
@@ -20,7 +20,7 @@
             "id": 3,
             "category": "PIZZA",
             "name": "Нежный лосось",
-            "img": "https://raw.githubusercontent.com/AbdullohBahromjonov/PizzaAPI/refs/heads/main/марино%201.png",
+            "img": "https://img.freepik.com/premium-photo/isolated-margherita-tomato-pizza-white_219193-6002.jpg?w=740",
             "price": 345,
             "description": "Лосось, томаты черри, моцарелла, соус песто"
         },
@@ -28,7 +28,7 @@
             "id": 4,
             "category": "PIZZA",
             "name": "Пицца четыре сыра",
-            "img": "",
+            "img": "https://img.freepik.com/premium-photo/isolated-jalapeno-pizza-with-sausages-chicken_219193-6049.jpg?w=740",
             "price": 345,
             "description": "Соус Карбонара, Сыр Моцарелла, Сыр Пармезан, Сыр Роккфорти, Сыр Чеддер (тёртый)"
         }
