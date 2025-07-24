@@ -1,0 +1,39 @@
+{
+    "menu": [
+        {
+            "id": 1,
+            "category": "PIZZA",
+            "name": "Ветчина и грибы",
+            "img": "https://raw.githubusercontent.com/AbdullohBahromjonov/PizzaAPI/refs/heads/main/Буффало%201.png",
+            "price": 345,
+            "description": "Ветчина,шампиньоны, увеличинная порция моцареллы, томатный соус"
+        },
+        {
+            "id": 2,
+            "category": "PIZZA",
+            "name": "Баварские колбаски",
+            "img": "https://raw.githubusercontent.com/AbdullohBahromjonov/PizzaAPI/refs/heads/main/Слой%201%202.png",
+            "price": 345,
+            "description": "Баварски колбаски,ветчина, пикантная пепперони, острая чоризо, моцарелла, томатный соус"
+        },
+        {
+            "id": 3,
+            "category": "PIZZA",
+            "name": "Нежный лосось",
+            "img": "https://raw.githubusercontent.com/AbdullohBahromjonov/PizzaAPI/refs/heads/main/марино%201.png",
+            "price": 345,
+            "description": "Лосось, томаты черри, моцарелла, соус песто"
+        },
+        {
+            "id": 4,
+            "category": "PIZZA",
+            "name": "Пицца четыре сыра",
+            "img": "",
+            "price": 345,
+            "description": "Соус Карбонара, Сыр Моцарелла, Сыр Пармезан, Сыр Роккфорти, Сыр Чеддер (тёртый)"
+        }
+    ]
+    "profile": {
+        "name": "Abdulloh"
+    }
+}
